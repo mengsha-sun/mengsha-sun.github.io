@@ -1,2 +1,4 @@
 name: Mengsha Sun
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
